@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousPipeClient", "AnonymousPipeClient\AnonymousPipeClient.csproj", "{4074F7C4-791F-4055-ACBB-F81F46EE33FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousPipeServer", "AnonymousPipeServer\AnonymousPipeServer.csproj", "{00CA86E5-0575-4706-A564-F2731FDCF346}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4074F7C4-791F-4055-ACBB-F81F46EE33FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4074F7C4-791F-4055-ACBB-F81F46EE33FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4074F7C4-791F-4055-ACBB-F81F46EE33FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4074F7C4-791F-4055-ACBB-F81F46EE33FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00CA86E5-0575-4706-A564-F2731FDCF346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00CA86E5-0575-4706-A564-F2731FDCF346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00CA86E5-0575-4706-A564-F2731FDCF346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00CA86E5-0575-4706-A564-F2731FDCF346}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC6079B4-4843-49D6-99EC-CB01E5DE2D4A}
+	EndGlobalSection
+EndGlobal
