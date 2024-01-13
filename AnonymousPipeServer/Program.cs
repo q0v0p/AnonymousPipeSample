@@ -35,7 +35,6 @@ catch (IOException e)
     Console.WriteLine("[SERVER] Error: {0}", e.Message);
 }
 
-
 pipeClient.WaitForExit();
 pipeClient.Close();
 Console.WriteLine("[SERVER] Client quit. Server terminating.");
